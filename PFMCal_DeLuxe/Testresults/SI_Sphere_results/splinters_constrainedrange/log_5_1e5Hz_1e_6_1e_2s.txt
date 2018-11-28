@@ -1,0 +1,2 @@
+a0(um) 	 amin(um) 	 amax(um) 	 afit(um) 	 k0(uN/m) 	 kmin(uN/m) 	 kmax(uN/m) 	 kfit(uN/m) 	 b0(uN/m) 	 bmin(V^2/nm^2) 	 bmax(V^2/nm^2) 	 bfit(V^2/nm^2) 	 psd0(V^2/Hz) 	  psdmin(V^2/Hz) 	  psdmax(V^2/Hz) 	  psdfit(V^2/Hz) 	 msd0(V^2) 	  msdmin(V^2) 	  msdmax(V^2) 	  msdfit(V^2)
+ 0.660000 	 0.680000 	 0.750000 	 0.720000 	 13.020000 	 13.910000 	 16.980000 	 15.370000 	 1664.500000 	 1605.120000 	 1750.670000 	 1676.320000 	 0.000000 	 0.002140 	 0.002930 	 0.002500 	 0.060000 	 0.170000 	 0.220000 	 0.190000 

@@ -1,0 +1,2 @@
+a[mum]	T[C]	rhop[gr/cm3]	rhof[gr/cm3]tmk[mus]	tk[mus]	tmeffk[mus]	tpeff[mus]	tf[mus]	fc[MHz]eta[mPa.s]	k[muN/m]	bM[mum/V]	bV[mum/V]	bP[mum/V]
+ 0.94	21.00	1570.00	1000.0028.970	2779.266	33.265	0.398	0.866	57.2651.021	6.508	11.850	10.687	12.730
