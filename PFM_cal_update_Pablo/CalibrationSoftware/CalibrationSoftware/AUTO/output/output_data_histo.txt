@@ -1,2 +1,0 @@
-T[C]	k_estimated[muN/m]	bE[mum/V]	bE_error[mum/V]	bG[mum/V]	bG_error[mum/V]
-21.0	6.290	11.953	0.030	12.089	0.171
