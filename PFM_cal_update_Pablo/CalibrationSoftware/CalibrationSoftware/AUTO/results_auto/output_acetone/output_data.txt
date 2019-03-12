@@ -1,0 +1,9 @@
+# Created by Octave 4.0.2, Tue Mar 14 12:35:22 2017 CET <pablo@franken>
+# name: sOutput
+# type: string
+# elements: 1
+# length: 244
+a[mum]	T[C]	rhop[gr/cm3]	rhof[gr/cm3]	tmk[mus]	tk[mus]	tmeffk[mus]	tpeff[mus]	tf[mus]	fc[MHz]	eta[mPa.s]	k[muN/m]	bM[mum/V]	bV[mum/V]	bP[mum/V]
+ 0.94	21.00	1570.00	1000.00	30.008	966.613	34.457	1.228	2.670	164.652	0.331	6.066	10.001	9.764	9.656
+
+
