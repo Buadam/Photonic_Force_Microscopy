@@ -1,9 +1,0 @@
-# Created by Octave 4.0.2, Tue Mar 14 12:37:52 2017 CET <pablo@franken>
-# name: sOutput
-# type: string
-# elements: 1
-# length: 110
-T[C]	k_estimated[muN/m]	bE[mum/V]	bE_error[mum/V]	bG[mum/V]	bG_error[mum/V]
-21.0	6.060	9.629	0.259	9.902	0.159
-
-
